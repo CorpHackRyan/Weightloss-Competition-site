@@ -1,2 +1,5 @@
-Initial commit from terminal - all pushed and created via linux terminal. 2-28-21
+Live server can be seen at: <a href="http://www.nonemoreplump.com">www.nonemoreplump.com</a>
+<br>
+<img src="./weight.png">
+
 
