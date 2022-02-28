@@ -84,8 +84,10 @@
 </div>
 
 <div class="blog-entry">
-<h1>Blog Entry #9<br> Monday - February 28th @ 08:18 PM</h1>
-<p>
+<h1>Blog Entry #9<br> Monday - February 28th @ 12:34 PM</h1>
+<p>Alright! Killing it this week. I'm feeling great and ready to have another awesome week this week. Finally found some motivation to stick to my diet and get moving. Only
+took me 7 weeks! LOL. I havent' heard from anyone regarding continuing on after this - but I'm going to do it anyway. I think while we all have it in our minds to lose weight,
+it's probably beneficial to us all to keep this thing going. Good luck this week! Drink water, don't eat crap, move as much as you can, and enjoy life!
 </p>
 </div>
 
