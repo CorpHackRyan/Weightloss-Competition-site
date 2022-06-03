@@ -14,11 +14,13 @@
 </head>
 <body>
 
+<h3><a href="http://nonemoreplump.com/comp2.php">Second competition details!! (Apr 17th-July 17th) Click here!</a></h3>
+
 <div class="top-header">
     <h2>2022</h2>
     <h2>WEIGHT LOSS COMPETITION</h2>
     <h2>JANUARY 9 - APRIL 3</h2>
-    <h2>Last update: 2/28/22 @ 08:17 AM</h2>
+    <h2>Last update: 04/05/22 @ 09:26 AM</h2>
 </div>
 
 <br>
@@ -32,56 +34,100 @@
         </tr>
         <tr>
             <td>1</td>
-            <td><a href="./profile/mike.html">Mike Botelho</a></td>
-            <td>17.6</td>
-            <td>6.92%</td>
+            <td class="name"><a href="./profile/mike.html">Mike Botelho</a></td>
+            <td>29.8</td>
+            <td>11.71%</td>
         </tr>
         <tr>
             <td>2</td>
-            <td><a href="./profile/paul.html">Paul Hutchison</a></td>
-            <td>12.4</td>
-            <td>5.00%</td>
+            <td class="name"><a href="./profile/paul.html">Paul Hutchison</a></td>
+            <td>24.5</td>
+            <td>9.88%</td>
         </tr>
 
         <tr>
             <td>3</td>
-            <td><a href="./profile/greg.html">Greg Wallerus</a></td>
-            <td>12.2</td>
-            <td>5.92%</td>
+            <td class="name"><a href="./profile/greg.html">Greg Wallerus</a></td>
+            <td>14.4</td>
+            <td>7.00%</td>
+        </tr>
+        <tr>
+             <td>4</td>
+             <td class="name"><a href="./profile/frank.html">Frank Venturini</a></td>
+             <td>12.0</td>
+             <td>5.79%</td>
         </tr>
 
         <tr>
-            <td>4</td>
-            <td><a href="./profile/hugo.html">Hugo Silva</a></td>
-            <td>8.6</td>
-            <td>4.41%</td>
-        </tr>
-        <tr>
             <td>5</td>
-            <td><a href="./profile/christian.html">Christian Granados</a></td>
-            <td>8.4</td>
-            <td>3.83%</td>
+            <td class="name"><a href="./profile/christian.html">Christian Granados</a></td>
+            <td>10.3</td>
+            <td>4.70%</td>
         </tr>
+
+
+
         <tr>
              <td>6</td>
-             <td><a href="./profile/frank.html">Frank Venturini</a></td>
-             <td>6.4</td>
-             <td>3.07%</td>
+             <td class="name"><a href="./profile/hugo.html">Hugo Silva</a></td>
+             <td>3.4</td>
+             <td>1.74%</td>
         </tr>
         <tr>
             <td>7</td>
-            <td><a href="./profile/rob.html">Rob Simonetti</a></td>
-            <td>5.4</td>
-            <td>2.63%</td>
+            <td class="name"><a href="./profile/rob.html">Rob Simonetti</a></td>
+            <td>2.0</td>
+            <td>0.97%</td>
         </tr>
         <tr>
             <td>8</td>
-            <td><a href="./profile/ryanoconnor.html">Ryan O'Connor</a></td>
-            <td>2.0</td>
-            <td>1.01%</td>
+            <td class="name"><a href="./profile/ryanoconnor.html">Ryan O'Connor</a></td>
+            <td>(3.0)</td>
+            <td>(1.54)%</td>
         </tr>
+
+
+
     </table>
 </div>
+
+<div class="blog-entry">
+<h1>Blog Entry #14<br> Tuesday - April 5th @ 9:28 AM</h1>
+<p>And that's it! We've completed the competition and a big congrats to the top two contenders,  Mike & Paul,  for losing a tremendous amount of weight. You all did exceptionally well. Congrats
+to Mike Botelho for taking down the first place prize of $800 for a total of 29.8 pounds lost! Amazing work! See you in the next competition starting April 17th if you so choose to participate!
+</div>
+
+<div class="blog-entry">
+<h1>Blog Entry #13<br> Thursday - March 31st @ 10:52 AM</h1>
+<p>This is the last week! One last final push! I'm so happy for all of you, since you've all lost some weight along the way. Keep it up and see you at the finish line</p>
+</div>
+
+
+
+<div class="blog-entry">
+<h1>Blog Entry #12<br> Wednesday - March 23rd @ 9:13 PM</h1>
+<p>Man we had a lot of people lose this week including myself. I'm back to even but hey this ain't about me. KUDOS to you guys for continuing to lose this far
+into the challenge. We have just 2 weeks left, lets make them count! I'll be sending out a separate text for the next competition for those who are interested,
+and feel free to invite anyone of your friends along to juice up the prize pool. It will be paid out differently next time (Most likely the top 3 of just pounds
+lost. Keep the focus the next two weeks and see you guys at the finish line!
+</div>
+
+
+
+<div class="blog-entry">
+<h1>Blog Entry #11<br> Wednesday - March 16th @ 1:54 PM</h1>
+<p>We are closing in on the competition finishing! Really impressed with Paul and Mike.. they are super close and still within anyones reach to win. Rooting for you guys! I'm still stinking
+at this LOL. Someday! HA! Anyway, I'm going to hit you all up with a text message this week for the next competition with some new rules and ideas. Hoping we can all continue on this journey
+together and keep at trying to get healthy! Til then have a good rest of your week!</p>
+</div>
+
+<div class="blog-entry">
+<h1>Blog Entry #10<br> Tuesday - March 8th @ 19:37 PM</h1>
+<p>Thanks for continued participation from all! I know it's probably one of the more difficult things to stick to and follow with life going on. I hope I can get more involved in the next one,
+as I have some ideas I'll be pitching. As always, I'm just proud of all of you for continuing to maintain or lose your weight. Personal physical health should be HIGH UP on the priority list
+of things to focus on in life. My opinion anyway. Til next week!
+</p></div>
+
 
 <div class="blog-entry">
 <h1>Blog Entry #9<br> Monday - February 28th @ 12:34 PM</h1>
